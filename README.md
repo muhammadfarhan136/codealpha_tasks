@@ -28,10 +28,10 @@
 - Generated actionable insights
 
 ## 👨‍💻 Author
-**Your Name**  
+**Muhammad Farhan**  
 Data Science Intern @ CodeAlpha  
 
-🔗 [LinkedIn]([your-linkedin-url](http://www.linkedin.com/in/muhammadfarhan146)) | 🐙 [GitHub]([your-github-url](https://github.com/muhammadfarhan136))
+🔗 [LinkedIn]((http://www.linkedin.com/in/muhammadfarhan146)) | 🐙 [GitHub]((https://github.com/muhammadfarhan136))
 
 ## 🏢 About CodeAlpha
 This repository contains all tasks completed as part of the 
